@@ -1,0 +1,8 @@
+*.pt
+*.avi
+*.mp4
+*.png
+dataset
+__pycache__
+segmentation
+trained_model
